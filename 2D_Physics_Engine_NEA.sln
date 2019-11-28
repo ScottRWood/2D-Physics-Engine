@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D_Physics_Engine_NEA", "2D_Physics_Engine_NEA\2D_Physics_Engine_NEA\2D_Physics_Engine_NEA.csproj", "{6B50904F-7531-406B-92E3-FF5BBE4E70D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D_Physics_Engine_NEAContent", "2D_Physics_Engine_NEA\2D_Physics_Engine_NEAContent\2D_Physics_Engine_NEAContent.contentproj", "{DCADBF94-9FF7-436A-BA4A-AEC935FACD96}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E186702F-6667-42BE-9986-2C8F0401EA14}"
+	ProjectSection(SolutionItems) = preProject
+		2D_Physics_Engine_NEA.vsmdi = 2D_Physics_Engine_NEA.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = 2D_Physics_Engine_NEA.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B50904F-7531-406B-92E3-FF5BBE4E70D7}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{6B50904F-7531-406B-92E3-FF5BBE4E70D7}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{6B50904F-7531-406B-92E3-FF5BBE4E70D7}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{6B50904F-7531-406B-92E3-FF5BBE4E70D7}.Debug|x86.ActiveCfg = Debug|x86
+		{6B50904F-7531-406B-92E3-FF5BBE4E70D7}.Debug|x86.Build.0 = Debug|x86
+		{6B50904F-7531-406B-92E3-FF5BBE4E70D7}.Release|Any CPU.ActiveCfg = Release|x86
+		{6B50904F-7531-406B-92E3-FF5BBE4E70D7}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{6B50904F-7531-406B-92E3-FF5BBE4E70D7}.Release|Mixed Platforms.Build.0 = Release|x86
+		{6B50904F-7531-406B-92E3-FF5BBE4E70D7}.Release|x86.ActiveCfg = Release|x86
+		{6B50904F-7531-406B-92E3-FF5BBE4E70D7}.Release|x86.Build.0 = Release|x86
+		{DCADBF94-9FF7-436A-BA4A-AEC935FACD96}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{DCADBF94-9FF7-436A-BA4A-AEC935FACD96}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{DCADBF94-9FF7-436A-BA4A-AEC935FACD96}.Debug|x86.ActiveCfg = Debug|x86
+		{DCADBF94-9FF7-436A-BA4A-AEC935FACD96}.Release|Any CPU.ActiveCfg = Release|x86
+		{DCADBF94-9FF7-436A-BA4A-AEC935FACD96}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{DCADBF94-9FF7-436A-BA4A-AEC935FACD96}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

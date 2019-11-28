@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\ComputingProject\2D_Physics_Engine_NEA\2D_Physics_Engine_NEA\2D_Physics_Engine_NEA\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2011-11-08T12:12:20+00:00</Time>
+    </Item>
+    <Item>
+      <Source>circle_white.png</Source>
+      <Name>circle_white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\ComputingProject\2D_Physics_Engine_NEA\2D_Physics_Engine_NEA\2D_Physics_Engine_NEA\bin\x86\Debug\Content\circle_white.xnb</Output>
+      <Time>2011-11-17T13:15:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>pixel_white.png</Source>
+      <Name>pixel_white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\ComputingProject\2D_Physics_Engine_NEA\2D_Physics_Engine_NEA\2D_Physics_Engine_NEA\bin\x86\Debug\Content\pixel_white.xnb</Output>
+      <Time>2011-11-16T19:42:54+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont.spritefont</Source>
+      <Name>SpriteFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\ComputingProject\2D_Physics_Engine_NEA\2D_Physics_Engine_NEA\2D_Physics_Engine_NEA\bin\x86\Debug\Content\SpriteFont.xnb</Output>
+      <Time>2011-11-08T12:49:22+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\ComputingProject\2D_Physics_Engine_NEA\2D_Physics_Engine_NEA\2D_Physics_Engine_NEAContent\</RootDirectory>
+      <LoggerRootDirectory>D:\ComputingProject\2D_Physics_Engine_NEA\2D_Physics_Engine_NEA\2D_Physics_Engine_NEA\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\ComputingProject\2D_Physics_Engine_NEA\2D_Physics_Engine_NEA\2D_Physics_Engine_NEAContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\ComputingProject\2D_Physics_Engine_NEA\2D_Physics_Engine_NEA\2D_Physics_Engine_NEA\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-02-27T14:24:28.667532+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

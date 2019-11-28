@@ -1,0 +1,10 @@
+Executable is found in 2D_Physics_Engine_NEA/2D_Physics_Engine_NEA/bin/x86/Debug
+
+Requires Windows 7 with XNA Framework 4.0 installed to run
+
+C# files found in:
+2D_Physics_Engine_NEA/2D_Physics_Engine_NEA/Engine
+2D_Physics_Engine_NEA/2D_Physics_Engine_NEA/Input
+2D_Physics_Engine_NEA/2D_Physics_Engine_NEA/Physics
+2D_Physics_Engine_NEA/2D_Physics_Engine_NEA/Rendering
+2D_Physics_Engine_NEA/2D_Physics_Engine_NEA/Utilities
